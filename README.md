@@ -10,11 +10,21 @@
 
 ![Скриншот 1: Ввод данных]![image](https://github.com/user-attachments/assets/f212c132-9132-4488-83ee-0c373dfb9593)
   
-*Поля для ввода концентраций загрязняющих веществ*
+
 
 ![Скриншот 2: Результат с цветовой индикацией]![image](https://github.com/user-attachments/assets/d968b3b5-b15b-4507-b827-2ba783cc22af)
+
+
 ![image](https://github.com/user-attachments/assets/f4279ce9-276b-49a9-bbfc-e2e61d8d11ac)
+
+
+
 ![image](https://github.com/user-attachments/assets/34622684-fcba-4666-ad55-83c54bda8bed)
+
+
+
+![image](https://github.com/user-attachments/assets/30dd6207-843f-4fa3-97ea-db499a8975e8)
+
 
 
  
